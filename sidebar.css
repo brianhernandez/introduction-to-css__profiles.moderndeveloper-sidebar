@@ -91,6 +91,7 @@ span {
 
 .navigation a:hover,
 .navigation a:focus {
+	border-bottom: none;
   background: 
     linear-gradient(
       to bottom right, 
